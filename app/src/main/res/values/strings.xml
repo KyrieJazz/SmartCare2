@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartCare2</string>
+    <string name="title_home">主页</string>
+    <string name="title_account">我的</string>
+    <string name="title_message">消息</string>
+    <string name="title_monitor">实时监控</string>
+</resources>
