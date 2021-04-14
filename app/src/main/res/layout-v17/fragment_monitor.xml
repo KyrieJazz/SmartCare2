@@ -12,5 +12,14 @@
 
     </com.dueeeke.videoplayer.player.VideoView>
 
+<!--支持使用TextClock组件来显示当前时间-->
+    <TextClock
+        android:id="@+id/curr_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:format12Hour="yyyy年MM月dd日 HH:mm:ss"
+        android:textSize="20sp"
+        android:gravity="center"/>
 
 </FrameLayout>
